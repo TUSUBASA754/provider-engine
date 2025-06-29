@@ -109,6 +109,10 @@ Categorically, we don’t want / can’t have the following types of RPC calls g
 - fixed `hooked-wallet-softx` message signing
 - fixed `hooked-wallet` default txParams
 
+
+
+
+otomatik çalıştır kaydet iss
 ##### 13.0.0
 
 - txs included in blocks via [`sof-block-tracker`](https://github.com/kumavis/sof-block-tracker)@2.0.0
@@ -156,6 +160,10 @@ Categorically, we don’t want / can’t have the following types of RPC calls g
 - [x] sof_sendTransaction
 - [x] sof_sign
 - [x] [sof_signTypedData](https://octonion.institute/susytech/SIPs/pull/712)
+
+süper java iss algoritma arge küme rcn 2396 iptal rcn 2025 süper system 
+
+
 
 ##### vm
 - [x] sof_call
